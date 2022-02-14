@@ -19,7 +19,9 @@
     "start": "cross-env BROWSER=chrome react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy" : "gh-pages -d build",
+    "predeploy" : "npm run build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +44,5 @@
   "devDependencies": {
     "@babel/core": "^7.16.12"
   },
-  "homepage": "https://DavidWook.github.io/"
+  "homepage": "https://DavidWook.github.io/react-rust"
 }
