@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-rust/static/js/main.aa68cd72.chunk.js",
-    "main.js.map": "/react-rust/static/js/main.aa68cd72.chunk.js.map",
+    "main.js": "/react-rust/static/js/main.9aad7719.chunk.js",
+    "main.js.map": "/react-rust/static/js/main.9aad7719.chunk.js.map",
     "runtime~main.js": "/react-rust/static/js/runtime~main.1a9ddea2.js",
     "runtime~main.js.map": "/react-rust/static/js/runtime~main.1a9ddea2.js.map",
     "static/js/2.00eb27c5.chunk.js": "/react-rust/static/js/2.00eb27c5.chunk.js",
     "static/js/2.00eb27c5.chunk.js.map": "/react-rust/static/js/2.00eb27c5.chunk.js.map",
     "index.html": "/react-rust/index.html",
-    "precache-manifest.c4a7e184a506dba585fb841ac6209fd9.js": "/react-rust/precache-manifest.c4a7e184a506dba585fb841ac6209fd9.js",
+    "precache-manifest.a1f6fb552c6745c3b35b4f06f13fe81c.js": "/react-rust/precache-manifest.a1f6fb552c6745c3b35b4f06f13fe81c.js",
     "service-worker.js": "/react-rust/service-worker.js"
   }
 }

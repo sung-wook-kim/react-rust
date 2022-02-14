@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55a4c731af5a9c337869142ebfe899e7",
+    "revision": "2eef9343b3e348c741ffaa70943c46ba",
     "url": "/react-rust/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-rust/static/js/2.00eb27c5.chunk.js"
   },
   {
-    "revision": "639d85c13a823a47dab5",
-    "url": "/react-rust/static/js/main.aa68cd72.chunk.js"
+    "revision": "2109e49a93a101d83106",
+    "url": "/react-rust/static/js/main.9aad7719.chunk.js"
   },
   {
     "revision": "c28aaed5659aa4daecd3",
