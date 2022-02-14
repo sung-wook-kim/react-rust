@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-rust/precache-manifest.a1f6fb552c6745c3b35b4f06f13fe81c.js"
+  "/react-rust/precache-manifest.dedaae7d8af110e085e7b8ffd6ec038a.js"
 );
 
 self.addEventListener('message', (event) => {
