@@ -4,7 +4,7 @@ function Movie({item}) {
     return (
     <div key={item.id}>
     <img src={item.medium_cover_image}/>
-    <h2><Link to={`/movie/${item.id}`}>{item.title}</Link> ({item.year})</h2>
+    <h2><Link to={`${process.env.PUBLIC_URL}/movie/${item.id}`}>{item.title}</Link> ({item.year})</h2>
     <p>{item.summary}</p>
     <ul>
       {item.genres ? item.genres.map(g=><li key={g}>{g}</li>) : console.log("doesn't have g") }
